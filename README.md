@@ -19,7 +19,7 @@
 
 ## Limitations:
 
-- Information from Dawn's Herald articles was not extracted
+- Information from Dawn's Herald articles were not extracted
 - Since we search on keywords, there are articles that are not related to GBV -- these are very few in number. This would require manually checking that I was unable to do during my academic term.
 
 ## Visualizations:
@@ -31,16 +31,3 @@ Cities mentioned in extracted articles' text:
 Keywords in extracted articles' text:
 
 ![WordCloud](wordcloud.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
