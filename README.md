@@ -21,6 +21,7 @@
 
 - Information from Dawn's Herald articles were not extracted
 - Since we search on keywords, there are articles that are not related to GBV -- these are very few in number. This would require manually checking that I was unable to do during my academic term.
+- The total number of articles that were extracted were ~1200. This does not account for all articles published on a newspaper's website. It could be that cases are underreported but there is no supporting argument based on this project. This would require further work that includes a combination of qualitative and quantitative research/analysis.
 
 ## Visualizations:
 
@@ -33,3 +34,4 @@ Keywords in extracted articles' text:
 ![WordCloud](wordcloud.png)
 
 Visualizing topics in extracted articles' text: This can be viewed [here](https://rukhshanarifm.github.io/).
+
