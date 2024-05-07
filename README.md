@@ -33,5 +33,3 @@ Keywords in extracted articles' text:
 
 ![WordCloud](wordcloud.png)
 
-Visualizing topics in extracted articles' text: This can be viewed [here](https://rukhshanarifm.github.io/).
-
